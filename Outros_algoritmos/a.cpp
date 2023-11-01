@@ -6,6 +6,11 @@
 
 using namespace std;
 
+/*
+    @author Lincoln
+    @date 31/10/2023
+*/
+
 // Função para imprimir uma matriz
 void imprimirMatriz(const vector<vector<int>>& matriz) {
     int linhas = matriz.size();
