@@ -1,0 +1,11 @@
+Nome Cracked Flawed Normal Fine Exquisite Perfect Tamanho Peso
+Safira_azul 5 8 13 22 38 63 1 1
+Diamante 5 9 14 24 41 68 1 1
+Esmeralda 5 8 13 22 38 0 1 1
+Rubi 5 8 13 22 38 0 1 1
+Pulseira_de_ouro_estampada 2 3 9 19 32 54 1 1
+Adaga_Cerimonial 5 8 16 24 48 72 2 2
+Calice 5 8 16 24 48 72 2 2
+Coroa 10 16 32 48 96 144 4 3
+Pote 10 16 32 48 96 144 4 5
+Pergaminho 15 24 48 72 144 216 6 7
