@@ -13,4 +13,5 @@ A função principal do algoritmo é a otimização das soluções por meio de u
 - Crossover: Cruzamento entre os espólios selecionados para gerar novas soluções (filhos).
 - Mutação: Aplicação de mutação nos espólios para introduzir variações na população.
 - Substituição: Atualização da população com os novos espólios gerados e preservação dos melhores indivíduos (elite) de gerações anteriores.
+
 O algoritmo segue esse ciclo por várias gerações, buscando melhorar continuamente as soluções encontradas. Ao final, apresenta as melhores soluções obtidas para resolver o problema da mochila compartimentada, exibindo o valor total, peso e tamanho das soluções encontradas.
